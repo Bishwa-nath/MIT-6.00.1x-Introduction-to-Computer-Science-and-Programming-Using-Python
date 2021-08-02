@@ -4,7 +4,7 @@
 
 [edX](https://www.edx.org/) is the platform where you will get this course.
 
-You will get a certificate if you are verified user.
+You can participate Midterm and Final exams if you have upgraded to a Verified Certificate.
 
 In this course you will learn:
 
